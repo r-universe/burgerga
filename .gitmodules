@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mdftracks"]
+	path = mdftracks
+	url = https://github.com/burgerga/mdftracks
+	shallow = true
+	registered = true
+[submodule "shinyTime"]
+	path = shinyTime
+	url = https://github.com/burgerga/shinytime
+	shallow = true
+	registered = true
