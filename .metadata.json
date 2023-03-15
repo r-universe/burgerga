@@ -1,10 +1,10 @@
 [
   {
-    "package": "shinyTime",
+    "package": "mdftracks",
     "oncran": true
   },
   {
-    "package": "mdftracks",
+    "package": "shinyTime",
     "oncran": true
   }
 ]
